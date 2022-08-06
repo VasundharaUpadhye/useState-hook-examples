@@ -1,4 +1,4 @@
-.App {
+/*.App {
   text-align: center;
 }
 
@@ -35,4 +35,52 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.first-part {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.counter {
+  background-color: rgb(157, 222, 200);
+  border: 3px;
+  border-color: black;
+  text-align: center;
+  height: 50vh;
+  width: 50%;
+}
+
+.personal-details {
+  background-color: rgb(229, 133, 179);
+  border: 3px;
+  border-color: black;
+  text-align: center;
+  height: 50vh;
+  width: 50%;
+}
+
+.second-part {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.addition {
+  background-color: rgb(160, 155, 234);
+  border: 3px;
+  border-color: black;
+  text-align: center;
+  height: 50vh;
+  width: 50%;
+}
+
+.example {
+  background-color: rgb(224, 167, 171);
+  border: 3px;
+  border-color: black;
+  text-align: center;
+  height: 50vh;
+  width: 50%;
 }
